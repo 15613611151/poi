@@ -11,7 +11,7 @@ public class PoiApplication {
         System.out.println();
         System.out.println("I am lxy");
         System.out.println("hello world");
-        System.out.println("哈哈，是派大星");
+        System.out.println("在下是派大星");
     }
 
 }
